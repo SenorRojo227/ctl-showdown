@@ -1,5 +1,19 @@
+/logs/*
+/test/modlogs
+/test/replays/*.html
 /node_modules
-
+/eslint-cache
+/server/chat-plugins/private
+/server/chat-plugins/private.js
+/server/chat-plugins/*-private.js
+npm-debug.log
+.eslintcache
+.eslintcache-no-types
+package-lock.json
+/tools/set-import/sets
+databases/*.db*
+*.o
+*.o.dSYM
 # Typescript build artifacts
 .*-dist/
 tools/set-import/importer.js
